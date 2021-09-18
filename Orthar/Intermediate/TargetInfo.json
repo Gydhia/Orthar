@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Orthar",
+			"Path": "C:\\Users\\killi\\Documents\\Unreal Projects\\Orthar\\Orthar\\Source\\Orthar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OrtharEditor",
+			"Path": "C:\\Users\\killi\\Documents\\Unreal Projects\\Orthar\\Orthar\\Source\\OrtharEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
